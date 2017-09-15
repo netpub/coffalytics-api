@@ -1,0 +1,21 @@
+{
+  "name": "coffee-dash",
+  "version": "1.0.0",
+  "description": "Track Coffee Information",
+  "main": "app.js",
+  "dependencies": {
+    "node-dash-button": "^0.6.1",
+    "redis": "2.6.2",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "dash",
+    "button"
+  ],
+  "author": "Andre Rinas",
+  "license": "MIT"
+}
