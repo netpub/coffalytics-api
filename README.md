@@ -1,4 +1,4 @@
-#coffalytics-api
+# coffalytics-api
 
 ## What is this?
 The coffalytics-api is a Node.js based api which uses an amazon dash-button to track coffee consumption
